@@ -1,2 +1,15 @@
 - Responsividade
 - Modo light e dark
+- Header fixo
+- Contato
+
+
+Olá, meu nome é Eliel, tenho 19 anos e sou um desenvolvedor junior :)
+No momento estou fazendo Psicologia, é, eu sei que não tem relação alguma mas não escolhi amar duas coisas distintas, rs.
+Estou no primeiro ano de psicologia, como bolsista, estou aprendendo a programar nas horas vagas e acredito que a psicologia possa contribuir bastante no meu relacionamento dentro do
+trabalho!!!
+Tive meu primeiro contato com a programação no colegial, em uma espécie de "técnico" de exatas agregado ao ensino médio, voltei a ter contato em 2022 e me apaixonei.
+Hoje estou cursando desenvolvimento web full stack pela Newtab Academy.
+Após terminar a etapa de front end do curso, estou em busca de emprego na área e apesar de não ter experiência trabalhando de maneira remunerada, o curso é imersivo e a gente vive algo muito próximo do trabalho real, realizando metodologias ágeis como o scrum, trabalhos em equipe, projetos que atendem a demanda do mercado, tem prazos de entrega e notas de qualidade.
+Estou muito ansioso pra arrumar o meu primeiro emprego! Não sei tudo, mas quero muito um dia chegar perto de saber!
+Quer contar com alguém com fome de aprendizado? continue rolando para baixo.
