@@ -1,5 +1,53 @@
-.container {
-    background-color: blueviolet;
-    border: 2px solid rgb(0, 0, 0);
+.cabecalho {
+    background-color: #00208a;
     height: 100px;
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
 }
+
+.logoHeader {
+    height: 150px;
+}
+
+.cabecalho button {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: transparent;
+    box-shadow: 0px 2px rgb(255, 255, 255);
+    border: none;
+    height: 45px;
+    width: 130px;
+    cursor: pointer;
+    display: block;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.cabecalho button:hover {
+    color: #032491;
+}
+.cabecalho button::after {
+    content: "";
+    background: #ffffff;
+    position: absolute;
+    z-index: -1;
+    padding: 0.85em 0.75em;
+    display: block;
+    transition: all 0.35s;
+    left: 0;
+    right: 0;
+    top: 100%;
+    bottom: -100%
+}
+.cabecalho button:hover::after{
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    transition: all 0.35s;
+}
+
